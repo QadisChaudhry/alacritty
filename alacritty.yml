@@ -265,9 +265,9 @@ nord_colors: &nord_colors
     cyan:    '#8FBCBB'
     white:   '#ECEFF4'
 
-# colors: *everforest_dark_medium
+colors: *everforest_dark_medium
 # colors: *kanagawa_colors
-colors: *nord_colors
+# colors: *nord_colors
   # Default colors
   # primary:
   #   background: '#282828'
