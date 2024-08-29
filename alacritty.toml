@@ -1,0 +1,181 @@
+[colors.bright]
+black = "#4b565c"
+blue = "#7fbbb3"
+cyan = "#83c092"
+green = "#a7c080"
+magenta = "#d699b6"
+red = "#e67e80"
+white = "#d3c6aa"
+yellow = "#dbbc7f"
+
+[colors.cursor]
+cursor = "#7a8478"
+text = "#d3c6aa"
+
+[colors.normal]
+black = "#4b565c"
+blue = "#7fbbb3"
+cyan = "#83c092"
+green = "#a7c080"
+magenta = "#d699b6"
+red = "#e67e80"
+white = "#d3c6aa"
+yellow = "#dbbc7f"
+
+[colors.primary]
+background = "#2f383e"
+foreground = "#d3c6aa"
+
+[colors.selection]
+background = "#7a8478"
+text = "#d3c6aa"
+
+# [everforest_dark_medium.bright]
+# black = "#4b565c"
+# blue = "#7fbbb3"
+# cyan = "#83c092"
+# green = "#a7c080"
+# magenta = "#d699b6"
+# red = "#e67e80"
+# white = "#d3c6aa"
+# yellow = "#dbbc7f"
+
+# [everforest_dark_medium.cursor]
+# cursor = "#7a8478"
+# text = "#d3c6aa"
+
+# [everforest_dark_medium.normal]
+# black = "#4b565c"
+# blue = "#7fbbb3"
+# cyan = "#83c092"
+# green = "#a7c080"
+# magenta = "#d699b6"
+# red = "#e67e80"
+# white = "#d3c6aa"
+# yellow = "#dbbc7f"
+
+# [everforest_dark_medium.primary]
+# background = "#2f383e"
+# foreground = "#d3c6aa"
+
+# [everforest_dark_medium.selection]
+# background = "#7a8478"
+# text = "#d3c6aa"
+
+[font]
+size = 15.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+
+# [[kanagawa_colors.indexed_colors]]
+# color = "0xffa066"
+# index = 16
+
+# [[kanagawa_colors.indexed_colors]]
+# color = "0xff5d62"
+# index = 17
+
+# [kanagawa_colors.bright]
+# black = "0x727169"
+# blue = "0x7fb4ca"
+# cyan = "0x7aa89f"
+# green = "0x98bb6c"
+# magenta = "0x938aa9"
+# red = "0xe82424"
+# white = "0xdcd7ba"
+# yellow = "0xe6c384"
+
+# [kanagawa_colors.normal]
+# black = "0x090618"
+# blue = "0x7e9cd8"
+# cyan = "0x6a9589"
+# green = "0x76946a"
+# magenta = "0x957fb8"
+# red = "0xc34043"
+# white = "0xc8c093"
+# yellow = "0xc0a36e"
+
+# [kanagawa_colors.primary]
+# background = "0x1f1f28"
+# foreground = "0xdcd7ba"
+
+# [kanagawa_colors.selection]
+# background = "0x2d4f67"
+# foreground = "0xc8c093"
+
+[[keyboard.bindings]]
+chars = "\u001Bb"
+key = "Left"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001Bf"
+key = "Right"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001BOH"
+key = "Left"
+mode = "AppCursor"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u001BOF"
+key = "Right"
+mode = "AppCursor"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0015"
+key = "Back"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u001B\u007F"
+key = "Back"
+mods = "Alt"
+
+# [nord_colors.bright]
+# black = "#4C566A"
+# blue = "#81A1C1"
+# cyan = "#8FBCBB"
+# green = "#A3BE8C"
+# magenta = "#B48EAD"
+# red = "#BF616A"
+# white = "#ECEFF4"
+# yellow = "#EBCB8B"
+
+# [nord_colors.normal]
+# black = "#3B4252"
+# blue = "#81A1C1"
+# cyan = "#88C0D0"
+# green = "#A3BE8C"
+# magenta = "#B48EAD"
+# red = "#BF616A"
+# white = "#E5E9F0"
+# yellow = "#EBCB8B"
+
+# [nord_colors.primary]
+# background = "#2E3440"
+# foreground = "#D8DEE9"
+
+[window]
+decorations = "buttonless"
+
+[window.dimensions]
+columns = 130
+lines = 40
+
+[window.padding]
+x = 20
+y = 20
